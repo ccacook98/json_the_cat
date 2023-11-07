@@ -1,0 +1,7 @@
+JSON the Cat: A Cats as a Service Project
+
+This is a simple tool that queries the Cats as a Service API at
+api.thecatapi.com and prints the "Description" field of the response.
+
+USAGE:
+node breedFetcher.js <breed name>
